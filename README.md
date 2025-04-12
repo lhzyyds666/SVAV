@@ -74,7 +74,7 @@
 
 ## 系统要求
 - 操作系统：Deepin/UOS
-- 依赖：Qt 5.11+, DTK 5.6+, libmpv等
+- 依赖：Qt 5.11+, DTK 5.6+, libdtkwidget5, libmpv1, libtag1v5, libcurl4, libssl1.1, uuid-runtime
 
 ## 安装方法
 ```
